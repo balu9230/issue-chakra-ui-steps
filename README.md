@@ -1,5 +1,5 @@
 # issue-chakra-ui-steps
-Bug fix reqd: Cannot read properties of undefined (reading 'width') at chakra-ui-steps.es.js:315:25
+Bug fix reqd: Cannot read properties of undefined (reading 'width') at chakra-ui-steps.es.js:315:25 
 
 # ------------------ Traceback in browser ------------------ #
 
